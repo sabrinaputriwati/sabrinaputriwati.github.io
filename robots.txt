@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://sabrinaputriwati.github.io/short-hairstyle/sitemapx.xml
